@@ -1,0 +1,7 @@
+Soil_Type,Temperature_C,Humidity_Percent,Rainfall_mm,Crop_Type,Fertilizer,Yield_Target
+Loamy,30,60,200,Wheat,Urea,High
+Sandy,35,50,100,Maize,DAP,Medium
+Clayey,25,70,300,Rice,NPK,High
+Loamy,28,65,150,Millet,Urea,Low
+Sandy,32,55,120,Barley,MOP,Medium
+Clayey,26,75,310,Sugarcane,Compost,High
